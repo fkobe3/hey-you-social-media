@@ -4,7 +4,7 @@
 ## Description
 This project represents an example of using Express.js for routing a MongoDB database, and the Mongoose ODM for creating and querying a social network API. It offers the ability to create users, thoughts, and reactions; update users and thoughts, and add and delete friends.
 
-An example video walking through the different routes in Insomnia can be viewed [here](https://drive.google.com/file/d/1ke6gzUQqmsWgVdIrtaa8mTDx9l6Fr0RL/view?usp=sharing).
+An example video walking through the different routes in Insomnia can be viewed [here]().
 
 ## Table of Contents
 * [Installation Requirements](#install)
@@ -25,7 +25,7 @@ An example video walking through the different routes in Insomnia can be viewed 
 ## <a name=usage></a>Application Usage
 The application can be cloned from github using:
 ```
-git clone git@github.com:yooperjb/social_api.git
+git clone git@github.com:fkobe3hey-you-social-media.git
 ```
 To the use the API MongoDB must be installed locally, or by using a service such at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas). For testing purposes a local installation is recommended. The database settings are within the server.js file which will create and connect to the database described.
 
@@ -37,4 +37,4 @@ npm start
 No tests were completed yet for this application. 
 
 ## Questions
-Any questions or feedback regarding this project can be sent directly to my [email](mailto:jason.barnes@humboldt.edu). This project and others can be found at my [Github page]('https://github.com/yooperjb').
+Any questions or feedback regarding this project can be sent directly to my [email](mailto:fkobe3@gmail.com). This project and others can be found at my [Github page]('https://github.com/fkobe3').
